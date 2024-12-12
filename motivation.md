@@ -1,4 +1,4 @@
-# Motovations
+# Motivations
 ## WHY?
 Developing cloud based applications in the current day tipicaly requires mastery of serveral tachnologies, theese can come in the form of softwhere stacks run on cloud computers, networking setups between VMs and containers and many other tools specific to the platform you are developing for.   
 Additinal chellanges the comes with developing traditional could applications can include
